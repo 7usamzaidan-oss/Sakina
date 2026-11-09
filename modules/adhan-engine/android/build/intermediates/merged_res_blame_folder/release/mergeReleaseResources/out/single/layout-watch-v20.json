@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.sakina.adhan.adhan-engine-release-2:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.sakina.adhan.adhan-engine-appcompat-1.7.0-28:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.sakina.adhan.adhan-engine-release-2:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.sakina.adhan.adhan-engine-appcompat-1.7.0-28:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

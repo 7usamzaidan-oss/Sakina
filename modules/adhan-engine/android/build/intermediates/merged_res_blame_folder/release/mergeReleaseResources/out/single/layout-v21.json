@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.sakina.adhan.adhan-engine-release-2:/layout-v21/notification_action.xml",
+        "source": "com.sakina.adhan.adhan-engine-core-1.13.1-9:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.sakina.adhan.adhan-engine-release-2:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.sakina.adhan.adhan-engine-core-1.13.1-9:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.sakina.adhan.adhan-engine-release-2:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.sakina.adhan.adhan-engine-core-1.13.1-9:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.sakina.adhan.adhan-engine-release-2:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.sakina.adhan.adhan-engine-core-1.13.1-9:/layout-v21/notification_action_tombstone.xml"
+    }
+]

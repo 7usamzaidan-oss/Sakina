@@ -1,0 +1,9 @@
+com.sakina.adhan.adhan-engine-pngs-0 /home/user/sakina/modules/adhan-engine/android/build/generated/res/pngs/release
+com.sakina.adhan.adhan-engine-updated_navigation_xml-1 /home/user/sakina/modules/adhan-engine/android/build/generated/updated_navigation_xml/release
+com.sakina.adhan.adhan-engine-mergeReleaseResources-2 /home/user/sakina/modules/adhan-engine/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.sakina.adhan.adhan-engine-mergeReleaseResources-3 /home/user/sakina/modules/adhan-engine/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.sakina.adhan.adhan-engine-release-4 /home/user/sakina/modules/adhan-engine/android/build/intermediates/merged_res/release/mergeReleaseResources
+com.sakina.adhan.adhan-engine-release-5 /home/user/sakina/modules/adhan-engine/android/build/intermediates/packaged_res/release/packageReleaseResources
+com.sakina.adhan.adhan-engine-main-6 /home/user/sakina/modules/adhan-engine/android/src/main/res
+com.sakina.adhan.adhan-engine-release-7 /home/user/sakina/modules/adhan-engine/android/src/release/res
+gradleHome-0 /root/.gradle
